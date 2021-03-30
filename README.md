@@ -11,4 +11,4 @@ Eklenmesini düzeltilmesini istediğiniz konuları yazabilirsiniz. Çalışma il
 
 
 1- Gezer Murat, 2021, "Makine Öğrenmesi [Source code]. https://github.com/mgezer/makineogrenmesi/
-2- Gezer Murat, Bölüm 6 Veri Madenciliğinde Verin Ön İşlenmesi, Editör Balaban M.Erdal, Kartal E. , R ile Veri Madenciliği Uygulamaları , Çağlayan Kitapevi 2016, Sayfa 143-162
+2- Gezer Murat, Bölüm 6 Veri Madenciliğinde Verinin Ön İşlenmesi, Editör Balaban M.Erdal, Kartal E. , R ile Veri Madenciliği Uygulamaları , Çağlayan Kitapevi 2016, Sayfa 143-162
